@@ -1,0 +1,12 @@
+{
+  "slug": "dragon",
+  "display_name": "Global Dragon Tale",
+  "privacy_class": "normal",
+  "brain": "grokbot\\DESK_BRAIN.md",
+  "greeting": "Global Dragon Tale desk online. Motif/culture indexes ready. What figure or region should we seed next?",
+  "remotes": {
+    "git_origin_hint": "https://github.com/Seaverhall10/Global_Dragon_Tale",
+    "firebase_hint": ""
+  },
+  "notes": "Comparative serpent/dragon research. Web search allowed for sources. Council seats for contested claims."
+}

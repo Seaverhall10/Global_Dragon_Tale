@@ -1,0 +1,26 @@
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+~$*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets
+.env
+.env.*
+**/API*Keys*/
+
+# Generated desk noise (keep hand-authored brains)
+grokbot/brain/LAST_SYSTEM_PROMPT.md
+grokbot/AUTO_AUDIT.md
+PROJECT_STATUS.md
+
+# Large binaries
+*.mp4
+*.mov
+*.zip
